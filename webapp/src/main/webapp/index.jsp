@@ -1,4 +1,4 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying on a KUBERNETES using Ansible plabook with ROLLOUT policy</h2>
-<h2> One last deployment on Kubernetes </h2>
-<h1> Last try for deployment on Kubernetes </h1>
+
+<h1> Glad we finished the course at last without any issues with help from Shankar </h1>
